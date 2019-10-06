@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DELVRY03>
+  <IDOC BEGIN="1">
+    <E1EDL20 SEGMENT="1">
+      <VBELN>80774375</VBELN>
+      <VSTEL>LU02</VSTEL>
+      <BOLNR>80774375</BOLNR>
+      <LIFEX>80774375</LIFEX>
+      <E1ADRM1 SEGMENT="1">
+        <PARTNER_Q>LF</PARTNER_Q>
+        <PARTNER_ID>110246</PARTNER_ID>
+        <COUNTRY1>DE</COUNTRY1>
+      </E1ADRM1>
+      <E1ADRM1 SEGMENT="1">
+        <PARTNER_Q>AW</PARTNER_Q>
+        <PARTNER_ID>LU02</PARTNER_ID>
+        <NAME1>COMPANY LUXEMBOURG</NAME1>
+        <COUNTRY1>LU</COUNTRY1>
+      </E1ADRM1>
+      <E1EDT13 SEGMENT="1">
+        <QUALF>007</QUALF>
+        <NTANF>20190718</NTANF>
+        <NTANZ>1442</NTANZ>
+      </E1EDT13>
+      <E1EDL24 SEGMENT="1">
+        <POSNR>1</POSNR>
+        <WERKS>LU02</WERKS>
+        <KDMAT>820721</KDMAT>
+        <LFIMG>32</LFIMG>
+        <VRKME>PCE</VRKME>
+        <E1EDL41 SEGMENT="1">
+          <QUALI>001</QUALI>
+          <BSTNR>55000000128</BSTNR>
+          <POSEX>0010</POSEX>
+        </E1EDL41>
+      </E1EDL24>
+      <E1EDL24 SEGMENT="1">
+        <POSNR>1</POSNR>
+        <WERKS>LU02</WERKS>
+        <KDMAT>820721</KDMAT>
+        <LFIMG>32</LFIMG>
+        <VRKME>PCE</VRKME>
+        <E1EDL41 SEGMENT="1">
+          <QUALI>001</QUALI>
+          <BSTNR>55000000128</BSTNR>
+          <POSEX>0010</POSEX>
+        </E1EDL41>
+      </E1EDL24>
+    </E1EDL20>
+  </IDOC>
+</DELVRY03>

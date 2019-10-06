@@ -1,0 +1,50 @@
+//static and dynamic
+
+String s1='text1'
+
+s2 = 'text2'
+
+println s1.class
+println s2.class
+
+//everything is class
+println 2019.class
+int i=0
+println i.class
+
+
+//Strings
+multilineStrin = """
+line1
+line2
+line3"""
+
+//list, map
+a = [1, 3, 5]
+b = [abc: true, def: false]
+
+println b.abc
+
+//Closures
+def cl = {a, b ->
+    println a
+    println b
+}
+
+cl(1, 2)
+
+('a'..'z').each {
+    print it
+}
+
+//syntax sugar
+
+def b = a ?: "b"
+
+println xxx?.yyy?.zzz
+
+def sizes = ['123', '12345']*.size()
+println sizes
+
+a = "0123456789"
+println a[1..4]
